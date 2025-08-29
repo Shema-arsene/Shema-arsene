@@ -1,7 +1,7 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 **I am Shema Arsene**<br>
 👨‍💻  MERN-stack Next.js Full-stack developer, and I'm always eager tobuild meaningful projects and explore new technologies.
-💬 Feel free to reach out to me [LinkedIn]([https://www.linkedin.com/in/kwizera-caleb-391716292/](https://www.linkedin.com/in/shema-arsene-niyonkuru/)) | [Portfolio]((https://eng-shema-arsene.netlify.app/))
+💬 Feel free to reach out to me [LinkedIn]([https://www.linkedin.com/in/shema-arsene-niyonkuru/](https://www.linkedin.com/in/shema-arsene-niyonkuru/)) | [Portfolio]((https://eng-shema-arsene.netlify.app/))
 <br>
 **Tech Stack**
 <p align="center">
@@ -25,6 +25,7 @@
 
 **Let's connect**<br>
 [![Twitter Badge](https://img.shields.io/badge/-@_arsene21-1ca0f1?style=flat&labelColor=ffffff&logo=x&logoColor=black&link=https://twitter.com/_arsene21)](https://twitter.com/_arsene21)
+[![LinkedIn Badge](https://img.shields.io/badge/-@_Shema%20Arsene%20NiyonKuru-0A66C2?style=flat&labelColor=ffffff&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/shema-arsene-niyonkuru/)](https://www.linkedin.com/in/shema-arsene-niyonkuru/)
 
 ![NEXTJS](https://img.shields.io/badge/JavaScript-80%25-blue?style=for-the-badge)
 ![NEXTJS](https://img.shields.io/badge/ReactJS-80%25-blue?style=for-the-badge)

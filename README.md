@@ -2,21 +2,21 @@
 
 ## About me <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-👨‍💻  MERN-stack Next.js Full-stack developer, and I'm always eager tobuild meaningful projects and explore new technologies.
-I'm a Fullstack developer who enjoys creating beautiful and functional web applications. My expertise lies in HTML, CSS, Shadcn, Tailwind CSS JavaScript, TypeScript, Redux, React.JS, Next.JS, Node.JS, Express.js and MongoDB.
+👨‍💻  MERN-stack Next.js Full-stack developer, and I'm always eager to build meaningful projects and explore new technologies.
+I'm a Fullstack developer who enjoys creating beautiful, dynamic and functional web applications. My expertise lies in HTML, CSS, Tailwind CSS / Shadcn, JavaScript, TypeScript, Redux, React.JS, Next.JS, Node.JS, Express.js and MongoDB.
 
-I have a strong understanding of Full-Stack development principles and have gained experience building responsive and user-friendly web pages. I love using React to create dynamic user interfaces and manage state, and I have a talent for combining the MERN stack (MongoDb, ExpressJs, React and NodeJS) to create visually appealing and functional layouts.
+I have a strong understanding of Full-Stack development principles and have gained experience building responsive and user-friendly web pages. I love using React.js/Next.js to create dynamic user interfaces and manage state, and I have a talent for combining the MERN stack (MongoDb, ExpressJs, React and NodeJS) to create visually appealing and functional web application layouts.
 
-I've worked on a variety of projects in the past, both small and large-scale. From start to finish, I bring my skills in using version control systems (such as Git) and my focus on writing clean, maintainable and well-documented code to every project.
+I've worked on a variety of projects in the past, both small and large-scale. From start to finish, I bring my skills in using version control systems (such as Git) and my focus on writing clean, and maintainable code to every project.
 
 I'm a lifelong learner and love to stay up to date with the latest industry trends and best practices. Collaboration is key for me, and I enjoy working with others to find creative solutions to technical challenges.
 
-If you're looking for a Full-Stack developer who brings passion and experience, then I'm your guy! Let's work together and build something amazing!
-
 - 🔭 I’m currently Taking part in the 2025 OpenAI Open Model Hackathon “gpt-oss hackathon”
 - 💬 Ask me about Web Development.
-- 📫 How to reach me: niyonkurushemaa@gmail.com
+- 📫 How to reach me: niyonkurushemaa@gmail.com | +250 780 012 586
   <!-- Profile README -->
+
+If you're looking for a Full-Stack developer who brings passion and experience, then I'm your guy! Let's work together and build something amazing!
 
 ### Connect with me:
 [![Twitter Badge](https://img.shields.io/badge/-@_arsene21-1ca0f1?style=flat&labelColor=ffffff&logo=x&logoColor=black&link=https://twitter.com/_arsene21)](https://twitter.com/_arsene21)
@@ -65,9 +65,9 @@ If you're looking for a Full-Stack developer who brings passion and experience, 
 ---
 
 ![NEXTJS](https://img.shields.io/badge/JavaScript-80%25-blue?style=for-the-badge)
-![NEXTJS](https://img.shields.io/badge/ReactJS-80%25-blue?style=for-the-badge)
+![NEXTJS](https://img.shields.io/badge/ReactJS-90%25-blue?style=for-the-badge)
 ![NEXTJS](https://img.shields.io/badge/NEXTJS-80%25-blue?style=for-the-badge)
-![NEXTJS](https://img.shields.io/badge/NodeJS-80%25-blue?style=for-the-badge)
-![NEXTJS](https://img.shields.io/badge/ExpressJS-80%25-blue?style=for-the-badge)
+![NEXTJS](https://img.shields.io/badge/NodeJS-70%25-blue?style=for-the-badge)
+![NEXTJS](https://img.shields.io/badge/ExpressJS-70%25-blue?style=for-the-badge)
 
 

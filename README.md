@@ -11,58 +11,32 @@ I've worked on a variety of projects in the past, both small and large-scale. Fr
 
 I'm a lifelong learner and love to stay up to date with the latest industry trends and best practices. Collaboration is key for me, and I enjoy working with others to find creative solutions to technical challenges.
 
-- 🔭 I’m currently Taking part in the 2025 OpenAI Open Model Hackathon “gpt-oss hackathon”
-- 💬 Ask me about Web Development.
+- 🔭 I’m currently Taking part in the "PBL Cohort 3" at Possinove
+- 💬 Let's talk about Web Development.
 - 📫 How to reach me: niyonkurushemaa@gmail.com | +250 780 012 586
   <!-- Profile README -->
 
 If you're looking for a Full-Stack developer who brings passion and experience, then I'm your guy! Let's work together and build something amazing!
 
-### Connect with me:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🌐 Socials:
+
+💬 Feel free to reach out to me on: <br/> <br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shema-arsene-niyonkuru/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niyonkurushemaa@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@_arsene21-1ca0f1?style=flat&labelColor=ffffff&logo=x&logoColor=black&link=https://twitter.com/_arsene21)](https://twitter.com/_arsene21)
-[![Linkedin Badge](https://img.shields.io/badge/-Shema%20Arsene%20Niyonkuru-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shema-arsene-niyonkuru/)](https://www.linkedin.com/in/shema-arsene-niyonkuru/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_arsene21)](https://instagram.com/_arsene21)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_arsene21/) 
 
 ---
 
-### My Tech Stack
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-</p>
+# 💻 Tech Stack:
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-💬 Feel free to reach out to me [LinkedIn]([https://www.linkedin.com/in/shema-arsene-niyonkuru/](https://www.linkedin.com/in/shema-arsene-niyonkuru/)) | [Portfolio]((https://eng-shema-arsene.netlify.app/))
-<br>
-**Tech Stack**
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
----
-  
-### ⚡ Shema Arsene's GitHub Stats ![Profile Views](https://komarev.com/ghpvc/?username=Shema-arsene&color=blue&style=flat-square)
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shema-arsene&show_icons=true&count_private=true&include_all_commits=true&theme=radical" style="width: 350px;" alt="GitHub Contributions Graph">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shema-arsene&layout=compact&theme=radical&card_width=445" style="width: 380px;" alt="Top Languages">
-</div>
-
----
+### ✍️ Tech Profeciency
 
 ![NEXTJS](https://img.shields.io/badge/JavaScript-80%25-blue?style=for-the-badge)
 ![NEXTJS](https://img.shields.io/badge/ReactJS-90%25-blue?style=for-the-badge)
@@ -70,4 +44,20 @@ If you're looking for a Full-Stack developer who brings passion and experience, 
 ![NEXTJS](https://img.shields.io/badge/NodeJS-70%25-blue?style=for-the-badge)
 ![NEXTJS](https://img.shields.io/badge/ExpressJS-70%25-blue?style=for-the-badge)
 
+---
 
+# 📊 GitHub Stats: ![Profile Views](https://komarev.com/ghpvc/?username=Shema-arsene&color=blue&style=flat-square)
+![](https://github-readme-stats.vercel.app/api?username=shema-arsene&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shema-arsene&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shema-arsene&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shema-arsene&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shema-arsene&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=shema-arsene&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
